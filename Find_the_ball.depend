@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661629009 source:c:\programming\c\find_the_ball\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
